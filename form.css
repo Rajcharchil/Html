@@ -1,0 +1,51 @@
+form{
+    
+box-shadow: 5px 10px 10px  coral;
+background: linear-gradient(to right,rgb(113, 129, 218),#eb6c41);
+}
+
+
+input[type = text], input[type = password]{
+    width: 80%;
+    font-size: 20px;
+    padding: 8px;
+    box-shadow: 0px 5px rgb(87, 89, 90); 
+    background: linear-gradient(to right,rgb(0, 9, 60),#2d0b00);
+    display: block;
+    
+}
+
+
+#li{
+    font-size: 30px;
+    
+}
+
+div{
+    padding: 2px 4px 4px;
+}
+
+ body{
+    background:url(background1.jpg);
+} 
+
+h1{
+    color: rgb(255, 255, 255);
+}
+button{
+    color: rgb(243, 220, 220);
+    font-size: 25px;
+    padding: 10px 15px;
+    margin: 10px 0px;
+    border: none;
+    cursor: pointer;
+    box-shadow: 2px 5px 5px black;
+    background-color: rgb(44, 6, 134);
+    opacity: 0.7;
+}
+button:hover{
+    opacity: 1;
+}
+
+
+
